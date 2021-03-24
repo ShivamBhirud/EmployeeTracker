@@ -1,4 +1,4 @@
-# Exam-Portal
+# Employee-Tracker
 This is an micro django project that shows the use of django rest framework to fetch the employee data of a company created by users.
 
 # How to Run the Project on your Local?
